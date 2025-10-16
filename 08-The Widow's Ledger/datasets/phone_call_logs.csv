@@ -1,0 +1,6 @@
+time,caller,receiver,duration_min
+19:00,Edith,Doctor,5
+19:10,Nephew,Lawyer,2
+19:30,Housekeeper,Local Police,1
+20:05,Edith,Lawyer,3
+20:15,Nephew,Unknown,1
