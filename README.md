@@ -14,4 +14,6 @@ No spoilers — you’ll uncover the truth by running the notebooks yourself.
 
 🎥 Watch the full series on YouTube:  
 👉 [Data Crime Series Playlist](https://www.youtube.com/playlist?list=PLgYONms4SxY0JDX5pQTTBgwbzvyW4k7fG)  
+All course videos in this repository are created using **Agentic AI technology** powered by [**OrangeBrackets.com**](https://orange-brackets.com) —  
+an intelligent system that transforms **Jupyter Notebooks** and **course materials** into **narrated, instructor-style video tutorials**.
 
